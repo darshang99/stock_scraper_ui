@@ -1,0 +1,10 @@
+import streamlit as st
+import webbrowser
+from flask import request
+import plotly.graph_objects as go
+import yfinance as yf
+import plotly.express as px
+from mpl_finance import candlestick_ohlc
+import requests
+import json
+from streamlit_lottie import st_lottie
