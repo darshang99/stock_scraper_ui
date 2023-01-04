@@ -1,6 +1,5 @@
 import streamlit as st
 import webbrowser
-from flask import request
 from stocksymbol import StockSymbol
 from streamlit_option_menu import option_menu
 import plotly.graph_objects as go
